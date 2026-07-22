@@ -1,1 +1,1 @@
-# Curriculum-Industry-Alignment
+# CourseGraph
